@@ -1,2 +1,2 @@
 # cursotitulacion
-Curso para la obtención de titulo.
+Curso para la obtención de título.
